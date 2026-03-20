@@ -11,7 +11,7 @@ CHANNEL_LINK = "https://t.me/plus_official01"
 
 BOT_USERNAME = "numbertoinffo1_bot"
 
-ADMIN_ID = 123456789  # अपना telegram id डालो
+ADMIN_ID = 8351165824  # अपना telegram id डालो
 
 SHORTNER_API = "https://arolinks.com/api"
 SHORTNER_KEY = "70a4cdbd945a01d2be1459bef097f66fd742508b"
